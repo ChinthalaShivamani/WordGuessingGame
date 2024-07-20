@@ -15,5 +15,5 @@ This game is executed in Ubuntu OS.
 
 below is the screenshots for execution of game:
 
-![word guessing g1](https://user-images.githubusercontent.com/26687042/47963373-7b46a400-e051-11e8-8aab-aae7673c2a85.png)
+<img width="1186" alt="scs1" src="https://github.com/user-attachments/assets/380e5f36-4179-4ee1-a645-0fe2c22d1c51">
 ![word guessing g2](https://user-images.githubusercontent.com/26687042/47963379-7f72c180-e051-11e8-8348-828d8d92edde.png)
