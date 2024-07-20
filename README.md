@@ -1,4 +1,4 @@
-# word-guessing-game
+# WordGuessingGame
 This is a c++ word guessing game.
 
 In this game a 5 digit random word will be displayed to the screen.
